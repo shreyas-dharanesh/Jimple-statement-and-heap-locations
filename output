@@ -1,0 +1,8 @@
+C:\Users\y557w378\Downloads\soot-4.0.0-jar-with-dependencies>java SootHeapClass
+Statement r0[0] = 0,                     heap write
+Statement r0[1] = 1,                     heap write
+Statement $i6 = r0[$i3],                         heap read
+Statement $i5 = r0[$i4],                         heap read
+Statement r0[i8] = $i7,                  heap write
+Statement $i2 = r0[i0],                  heap read
+Statement $r1 = <java.lang.System: java.io.PrintStream out>,     heap read
